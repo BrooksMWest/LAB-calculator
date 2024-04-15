@@ -1,0 +1,28 @@
+
+#outer-box {
+  width: 403px;
+  border: 1px solid black;
+}
+
+
+#single-box {
+  width: 100px;
+  height: 100px;
+  border: black solid 1px
+
+}
+#double-box {
+  border: black solid 2px;
+  width: 200px;
+  height: 100px
+}
+#triple-box {
+  border: 1px solid black;
+  width: 300px;
+  height: 100px;
+}
+#quad-box {
+  border: 1px solid black;
+  width: 400px;
+  height:100px;
+}
